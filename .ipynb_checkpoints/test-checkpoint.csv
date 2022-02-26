@@ -1,0 +1,32 @@
+,sentences
+0,A 403 Forbidden Error occurs when a web server forbids you from accessing the page you’re trying to open in your browser.
+1,"Most of the time, there’s not much you can do."
+2,"But sometimes, the problem might be on your end."
+3,Here are some things you can try.What is a 403 Forbidden Error?The 403 Forbidden Error happens when the web page (or other resource) that you’re trying to open in your web browser is a resource that you’re not allowed to access.
+4,It’s called a 403 error because that’s the HTTP status code that the web server uses to describe that kind of error.
+5,You usually get this error for one of two reasons.
+6,"The first is that the owners of the web server have properly set up access permissions, and that you’re really not allowed access to the resource."
+7,"The second reason is that the owners of the web server have improperly set up permissions and you’re getting denied access when you really shouldn’t be.Just like with 404 errors and 502 errors, website designers can customize how a 403 error looks."
+8,"So, you might see different looking 403 pages on different websites."
+9,Websites might also use slightly different names for this error.
+10,"For example, you might see things like:- 403 Forbidden- HTTP 403- Forbidden- HTTP Error 403 – Forbidden- HTTP Error 403.14 – Forbidden- Error 403- Forbidden: You don’t have permission to access [directory] on this server- Error 403 – ForbiddenThe vast majority of the time, there’s not much you can do to fix things on your end."
+11,"Either you’re really not allowed to access the resource, or there’s an error on the server side of things."
+12,"Sometimes, it’s a temporary error; sometimes it isn’t."
+13,"Still, there are some things you can try.Refresh the PageRefreshing the page is always worth a shot."
+14,"Many times the 403 error is temporary, and a simple refresh might do the trick."
+15,"Most browsers use the F5 key to refresh, and also provide a Refresh button somewhere on the address bar."
+16,"It doesn’t fix the problem very often, but it takes just a second to try.Double Check the AddressThe most common reason for a 403 error is a mistyped URL."
+17,"Make sure that the address you are trying to access is for a web page or file, not a directory."
+18,"A regular URL would end in .com, .php, .org, .html, or just have an extension, while a directory URL would usually end with a “/”.Most servers are configured to disallow directory browsing for security reasons."
+19,"When they’re properly configured, you’re redirected to another page."
+20,"When they’re not, you might see a 403 error.Clear Your Browser Cookies and CacheIt’s also possible the page with the error has been cached in your browser, but the actual link was changed on the website."
+21,"To test out this possibility, you’ll have to clear your browser cache and cookies."
+22,"Clearing the cache won’t affect your browsing experience much, but some websites may a take a couple of extra seconds to load as they re-download all the previously cached data."
+23,"Clearing cookies means you’ll have to sign in again to most websites.To clear the cache in your browser, you can follow this extensive guide which will teach you how to clear your cache on all the popular desktop and mobile browsers.RELATED: How to Clear Your History in Any BrowserCheck if You Have Permission to Access the URLIf you’re trying to access a website which requires you to log in before you can see the content, then that might be causing the issue."
+24,"Typically, servers are configured to show you an error letting you know you must be logged in to access the content.But some improperly configured servers might throw a 403 error instead."
+25,"Try to log into the website (if possible) and see if the error goes away.Try Again LaterIf none of the simple solutions we’ve talked about so far work, you can always wait a while and come back later."
+26,"Since most of the time, 403 Errors are caused by issues with the website in question, it’s likely someone is already working on the problem.Contact the WebsiteAnother option is to contact the website owner directly."
+27,Look up their contact information on the website and contact them about the page in question.
+28,"If there is no contact form, you can try and reach the website on their social media.Contact your ISPIf you can confirm that the website in question is working for others but not for you, then it’s possible that the public IP address your ISP provided you (or your whole ISP) has been blocked for some reason."
+29,You can try contacting them and letting them know about the problem.
+30,"It’s not a very likely solution, but they might be able to help.- › What Are Google Play Points, and How Do You Use Them?- › When Is Android 11 Coming to My Phone, and How Do I Install It?- › How to See Which Program Is Using All Your CPU on Windows- › Here’s How Screenshots Work on Android- › What’s the Difference Between a Megabit and Megabyte?JOIN GEEK TALK ON FACEBOOK"
